@@ -1,4 +1,4 @@
-El proyecto necesita que se ejecunten los siguientes comandos:
+El proyecto necesita que se ejecuten los siguientes comandos:
 
 1 npm install </br>
 2 npm install faker json-server npm-run-all --save-dev </br>
