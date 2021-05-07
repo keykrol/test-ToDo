@@ -1,0 +1,30 @@
+.TodoList ul>li {
+    margin-bottom: 1rem;
+  }
+  
+  .TodoListItem {
+    background: #FFFFFF;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.23);
+    border-radius: 5px;
+    /* display: flex; */
+    padding: 1rem;
+  }
+  
+  .TodoListCenter{
+    text-align: center;
+  }
+
+  .TodoListFavoriteContainer{
+    width: 720px;
+    margin: auto;
+  }
+
+  .TodoListItemppal{
+    background: #FFFFFF;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.23);
+    border-radius: 5px;
+    /* display: flex; */
+    padding: 1rem;
+    width: 720px;
+    margin: auto;
+  }
